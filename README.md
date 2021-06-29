@@ -5,7 +5,7 @@
 ## Quick Start
 
 ```bash
-# Install all dependencies 
+# Install dependencies
 npm install
 
 # Serve on localhost:3000
