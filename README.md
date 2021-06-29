@@ -5,7 +5,7 @@
 ## Quick Start
 
 ```bash
-# Install all adsfasdf dependencies
+# Install all adsfasdependencies
 npm install
 
 # Serve on localhost:3000
